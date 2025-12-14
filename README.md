@@ -17,7 +17,7 @@ From concept to code — we handle it all with precision and care.
 
 ## 🧰 Tech Stack
 
-**🌐 Frontend Frameworks:** React, SvelteKit, Vue.js  
+**🌐 Frontend Frameworks:** React, SvelteKit, Vue.js, htmx  
 **🎨 Styling & UI Tools:** Tailwind CSS, Bootstrap, HTML, CSS, JavaScript  
 **🗄️ Backend & Databases:** Node.js, Express, PHP, CodeIgniter, MySQL, SQLite, IndexedDB  
 **⚡ Scripting & Automation:** Bash, Python  
