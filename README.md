@@ -16,17 +16,20 @@ From concept to code — we handle it all with precision and care.
 ---
 
 ## 🧰 Tech Stack
-**Frontend:** React, Next.js, Tailwind CSS, HTML, CSS, JavaScript  
-**Backend:** Node.js, Express, PHP, CodeIgniter, MySQL  
-**Tools & Platforms:** Docker, Linux, Nginx, Stripe API, GitHub, AWS  
+
+**🌐 Frontend Frameworks:** React, SvelteKit, Vue.js  
+**🎨 Styling & UI Tools:** Tailwind CSS, Bootstrap, HTML, CSS, JavaScript  
+**🗄️ Backend & Databases:** Node.js, Express, PHP, CodeIgniter, MySQL, SQLite, IndexedDB  
+**⚡ Scripting & Automation:** Bash, Python  
+**🛠️ Servers & Platforms:** Docker, Linux, Nginx, Apache, DigitalOcean, Stripe API, GitHub, AWS  
 
 ---
 
 ## 🏢 Industries We Serve
-- Construction & Contracting  
-- Painting & Remodeling  
-- HVAC, Electrical, and Plumbing  
-- Home Improvement & Landscaping  
+- 🏗️ Construction & Contracting  
+- 🎨 Painting & Remodeling  
+- 💨 HVAC, Electrical, and Plumbing  
+- 🌿 Home Improvement & Landscaping  
 
 ---
 
