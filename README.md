@@ -20,12 +20,13 @@ From concept to code — we handle it all with precision and care.
 **🌐 Frontend Frameworks:** React, SvelteKit, Vue.js, htmx  
 **🎨 Styling & UI Tools:** Tailwind CSS, Bootstrap, HTML, CSS, JavaScript  
 **🗄️ Backend & Databases:** Node.js, Express, PHP, CodeIgniter, MySQL, SQLite, IndexedDB  
-**⚡ Scripting & Automation:** Bash, Python  
+**⚡ Scripting & Automation:** Bash, Python, Puppeteer 
 **🛠️ Servers & Platforms:** Docker, Linux, Nginx, Apache, DigitalOcean, Stripe API, GitHub, AWS  
 
 ---
 
 ## 🏢 Industries We Serve
+- 🏗️ Retail  
 - 🏗️ Construction & Contracting  
 - 🎨 Painting & Remodeling  
 - 💨 HVAC, Electrical, and Plumbing  
